@@ -22,5 +22,5 @@ echo after installing Python
 call pip install instapy 
 if errorlevel 1 goto eof
 
-py insta.py 2>errorlog.txt
+py insta.py 
 :eof
