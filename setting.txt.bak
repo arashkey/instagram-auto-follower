@@ -1,0 +1,6 @@
+[instagram-account]
+username =your.instagram.account
+password =your.instagram.password
+
+[follow-by-list]
+followlist= user1,user2,user3
