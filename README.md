@@ -4,4 +4,5 @@ I am use this python librery to make this app
   
 ## Installation
 change setting.txt.bak to setting.txt and set username and password of your instagram account  
-also set followlist for following, seperator is , char
+also set followlist for following  
+seperator is , char
