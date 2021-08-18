@@ -9,4 +9,4 @@ change setting.txt.bak to setting.txt and set username and password of your inst
 also set followlist for following  => seperator is , char
   
 ## Run project
-run project with run.bat
+run project on windows with run.bat
